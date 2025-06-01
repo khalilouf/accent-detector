@@ -4,3 +4,7 @@ pydub
 torch
 torchaudio
 transformers
+streamlit
+pytube
+soundfile
+ffmpeg-python
