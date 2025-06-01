@@ -1,4 +1,6 @@
 yt-dlp
 moviepy
-speechbrain
+pydub
+torch
 torchaudio
+transformers
