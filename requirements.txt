@@ -8,3 +8,4 @@ streamlit
 pytube
 soundfile
 ffmpeg-python
+audioop-lts
